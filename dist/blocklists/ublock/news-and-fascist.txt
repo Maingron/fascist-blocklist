@@ -179,6 +179,7 @@ x.com/weichreite
 youtube.com##.lockup:has-text(AfD-Fraktion Bundestag)
 youtube.com##.lockup:has-text(Paul Brandenburg)
 youtube.com/@AfDAktuell
+youtube.com/@AfDTV
 youtube.com/@AfDimEUParlament
 youtube.com/@ChristineAnderson_MdEP
 youtube.com/@DrBerndBaumannMdB
@@ -241,6 +242,7 @@ youtube.com/shorts/6B2i5cKgVco
 ||afd-landtag.bayern^
 ||afd-landtagsfraktion-niedersachsen.de^
 ||afd-mh.de^
+||afd-muenchen-land.de^
 ||afd-muenchen.de^
 ||afd-muenster.de^
 ||afd-nds.de^
@@ -252,6 +254,7 @@ youtube.com/shorts/6B2i5cKgVco
 ||afd-sh.de^
 ||afd-siegen-wittgenstein.de^
 ||afd-stadtrat-augsburg.de^
+||afd-stadtrat-muenchen.de^
 ||afd-stolberg.de^
 ||afd-suedkreis-kleve.de^
 ||afd-thl.de^
@@ -311,6 +314,7 @@ youtube.com/shorts/6B2i5cKgVco
 ||die-freiheitlichen.com^
 ||die-heimat.de^
 ||facebook.com/AfD.Sachsen^
+||facebook.com/afdmuc^
 ||fpk.at^
 ||fpoe-ktn.at^
 ||fpoe-ooe.at^

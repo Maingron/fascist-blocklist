@@ -119,6 +119,8 @@
 ||afd-viersen.nrw^
 ||afd-krefeld.de^
 ||afd-stadtrat-augsburg.de^
+||afd-stadtrat-muenchen.de^
+||afd-muenchen-land.de^
 ||afd-augsburg-stadt.de^
 ||afd-augsburgland.de^
 ||afd-landkreisleipzig.de^
@@ -150,6 +152,7 @@
 ||ulbrich-afd.de^
 ||christophneumann.info^
 ||facebook.com/AfD.Sachsen^
+||facebook.com/afdmuc^
 ||wir-lieben-deutschland.de^
 ||stellen.afdbundestag.de^
 ||joerg-urban.de^
@@ -308,6 +311,7 @@ instagram.com/afd.bund
 instagram.com/AfDimBundestag
 crossiety.app/groups/17745
 youtube.com/@AfDAktuell
+youtube.com/@AfDTV
 youtube.com/shorts/6B2i5cKgVco
 youtube.com/channel/UCyw8Tkb44AGA2eB8K9fRioQ
 youtube.com/@Weichreite

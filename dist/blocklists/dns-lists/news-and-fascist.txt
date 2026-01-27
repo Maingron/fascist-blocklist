@@ -34,6 +34,7 @@
 0.0.0.0 afd-landtag.bayern
 0.0.0.0 afd-landtagsfraktion-niedersachsen.de
 0.0.0.0 afd-mh.de
+0.0.0.0 afd-muenchen-land.de
 0.0.0.0 afd-muenchen.de
 0.0.0.0 afd-muenster.de
 0.0.0.0 afd-nds.de
@@ -45,6 +46,7 @@
 0.0.0.0 afd-sh.de
 0.0.0.0 afd-siegen-wittgenstein.de
 0.0.0.0 afd-stadtrat-augsburg.de
+0.0.0.0 afd-stadtrat-muenchen.de
 0.0.0.0 afd-stolberg.de
 0.0.0.0 afd-suedkreis-kleve.de
 0.0.0.0 afd-thl.de
@@ -208,6 +210,7 @@
 0.0.0.0 www.afd-landtag.bayern
 0.0.0.0 www.afd-landtagsfraktion-niedersachsen.de
 0.0.0.0 www.afd-mh.de
+0.0.0.0 www.afd-muenchen-land.de
 0.0.0.0 www.afd-muenchen.de
 0.0.0.0 www.afd-muenster.de
 0.0.0.0 www.afd-nds.de
@@ -219,6 +222,7 @@
 0.0.0.0 www.afd-sh.de
 0.0.0.0 www.afd-siegen-wittgenstein.de
 0.0.0.0 www.afd-stadtrat-augsburg.de
+0.0.0.0 www.afd-stadtrat-muenchen.de
 0.0.0.0 www.afd-stolberg.de
 0.0.0.0 www.afd-suedkreis-kleve.de
 0.0.0.0 www.afd-thl.de
