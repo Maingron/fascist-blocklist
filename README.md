@@ -1,5 +1,7 @@
 # Fascist Blocklist
-(Recently renamed from "Fight Fascists" since focus is only on DNS/Ublock Blocklists)
+Repo containing lists for blocking fascist websites (DNS-level and uBlock).  
+GitHub: https://github.com/Maingron/fascist-blocklist  
+GitLab: https://gitlab.com/Maingron/fascist-blocklist
 
 ## Features
 - DNS blocklists (hosts format)
