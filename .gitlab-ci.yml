@@ -1,5 +1,5 @@
 # The Docker image that will be used to build your app
-image: node:lts
+image: python:3.14
 create-pages:
   pages:
     # The folder that contains the files to be exposed at the Page URL
@@ -11,4 +11,4 @@ create-pages:
   # Functions that should be executed before the build script is run
   before_script: []
   script:
-    - npm run build-blocklists
+    - python build_blocklists.py
