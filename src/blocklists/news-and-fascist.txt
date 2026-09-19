@@ -279,6 +279,13 @@
 ||maack.berlin^
 ||rene-bochmann.de^
 ||ronaldglaeser.de^
+||afd-potsdam.de^
+||afdpotsdam.de^
+||afd-pm.de^
+||afd-fraktion-pm.de^
+||afd-darmstadt-fraktion.de^
+||afd-ffo.de^
+||afd-im-roemer.de^
 
 
 ||jungefreiheit.de^
@@ -324,10 +331,17 @@ facebook.com/afdfraktion.lsa
 facebook.com/AfD.ABI
 facebook.com/AfD.Sachsen
 facebook.com/AfDKoeln
+facebook.com/afdberlin
 facebook.com/groups/577171718168039
 facebook.com/jungefreiheit
 facebook.com/paulbrandenburgcom
-
+facebook.com/afdpotsdam
+facebook.com/afdfraktionpotsdam
+facebook.com/732341716792014
+facebook.com/afdfraktionBB
+facebook.com/AfD.PotsdamMittelmark
+facebook.com/AfD.Darmstadtl
+facebook.com/afdffo
 
 instagram.com/afd.bayern
 instagram.com/afd.muenster
@@ -335,6 +349,9 @@ instagram.com/afd_oldenburg_land
 instagram.com/afdbremenstadt
 instagram.com/afdherford
 instagram.com/afdfraktionkoeln
+instagram.com/afd_potsdam
+instagram.com/afd.darmstadt
+
 instagram.com/jungefreiheit
 
 t.me/JUNGE_FREIHEIT_Official
@@ -362,6 +379,7 @@ youtube.com/@afdkreisverbandheidekreis6286
 youtube.com/@rtvooe
 youtube.com/@PaulBrandenburgCom
 youtube.com/c/paulbrandenburgcom
+youtube.com/@afd_darmstadt
 
 music.youtube.com/channel/UCksi8_CDUF0DbnLrgIoRrRg
 instagram.com/docbrandenburg
